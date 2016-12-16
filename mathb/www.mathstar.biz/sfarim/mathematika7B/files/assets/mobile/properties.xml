@@ -1,0 +1,1300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1" />
+      <title value="" />
+      <children>
+        <tocData>
+          <pageNumber value="1" />
+          <title value="שער" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="5" />
+          <title value="תוכן העניינים" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="7" />
+          <title value="משוואות פשוטות - חלק ראשון" />
+          <children>
+            <tocData>
+              <pageNumber value="7" />
+              <title value="מהי משוואה? מהו פתרון של משוואה" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="13" />
+              <title value="משוואות בסיסיות ושאלות מילוליות בסיסיות" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="33" />
+              <title value="תשובות" />
+              <children />
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="35" />
+          <title value="מספרים מכוונים" />
+          <children>
+            <tocData>
+              <pageNumber value="35" />
+              <title value="מבוא" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="40" />
+              <title value="ישר המספרים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="47" />
+              <title value="סידור המספרים המכוונים על ישר המספרים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="55" />
+              <title value="ערך מוחלט, מספרים נגדיים " />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="62" />
+              <title value="הצגת מספרים מכוונים באמצעות חיצים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="66" />
+              <title value="חיבור מספרים מכוונים " />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="72" />
+              <title value="חיבור מספרים נגדיים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="76" />
+              <title value="חיסור מספרים מכוונים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="80" />
+              <title value="כפל מספרים מכוונים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="88" />
+              <title value="מספרים הפכיים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="90" />
+              <title value="חילוק מספרים מכוונים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="93" />
+              <title value="כתיבת מספרים מכוונים ללא סוגריים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="93" />
+              <title value="חיבור וחיסור" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="97" />
+              <title value="כפל וחילוק" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="101" />
+              <title value="סדר פעולות החשבון במספרים מכוונים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="107" />
+              <title value="חזקות עם מספרים מכוונים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="113" />
+              <title value="ביטויים אלגבריים עם מספרים מכוונים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="119" />
+              <title value="תשובות" />
+              <children />
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="136" />
+          <title value="משוואות פשוטות עם (עם מספרים מכוונים) - חלק שני" />
+          <children>
+            <tocData>
+              <pageNumber value="136" />
+              <title value="משוואות שקולות" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="141" />
+              <title value="טכניקה לפתרון משוואות" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="163" />
+              <title value="תשובות" />
+              <children />
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="165" />
+          <title value="בעיות מילוליות" />
+          <children>
+            <tocData>
+              <pageNumber value="170" />
+              <title value="בעיות בסיסיות" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="173" />
+              <title value="בעיות מעשיות" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="176" />
+              <title value="בעיות גילים" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="178" />
+              <title value="בעיות העברה" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="180" />
+              <title value="בעיות הנדסיות" />
+              <children />
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="182" />
+          <title value="גיאומטריה" />
+          <children>
+            <tocData>
+              <pageNumber value="182" />
+              <title value="משולש ישר - זווית" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="182" />
+              <title value="מבוא" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="185" />
+              <title value="חפיפת משולשים ישרי - זווית" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="188" />
+              <title value="מלבן וחפיפת משולשים ישרי - זווית" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="192" />
+              <title value="שטח המשולש" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="192" />
+              <title value="שטח משולש ישר - זווית" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="196" />
+              <title value="גובה במשולש" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="200" />
+              <title value="שטח משולש כללי" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="206" />
+              <title value="תיכון במשולש" />
+              <children />
+            </tocData>
+            <tocData>
+              <pageNumber value="211" />
+              <title value="תשובות" />
+              <children />
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="216" />
+          <title value="זוויות - מבוא" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="224" />
+          <title value="סוגי זוויות" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="227" />
+          <title value="סכום הזוויות במשולש ובמרובע" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="234" />
+          <title value="זוויות צמודות" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="237" />
+          <title value="זוויות קודקודיות" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="241" />
+          <title value="חוצה זווית במשולש" />
+          <children />
+        </tocData>
+        <tocData>
+          <pageNumber value="245" />
+          <title value="תשובות" />
+          <children />
+        </tocData>
+      </children>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="#FFFFFFFF" />
+        <width value="595" />
+        <height value="841" />
+      </defaultValue>
+      <elements>
+        <page>
+          <links />
+          <id value="1" />
+        </page>
+        <page>
+          <links />
+          <id value="2" />
+        </page>
+        <page>
+          <links />
+          <id value="3" />
+        </page>
+        <page>
+          <links />
+          <id value="4" />
+        </page>
+        <page>
+          <links />
+          <id value="5" />
+        </page>
+        <page>
+          <links />
+          <id value="6" />
+        </page>
+        <page>
+          <links />
+          <id value="7" />
+        </page>
+        <page>
+          <links />
+          <id value="8" />
+        </page>
+        <page>
+          <links />
+          <id value="9" />
+        </page>
+        <page>
+          <links />
+          <id value="10" />
+        </page>
+        <page>
+          <links />
+          <id value="11" />
+        </page>
+        <page>
+          <links />
+          <id value="12" />
+        </page>
+        <page>
+          <links />
+          <id value="13" />
+        </page>
+        <page>
+          <links />
+          <id value="14" />
+        </page>
+        <page>
+          <links />
+          <id value="15" />
+        </page>
+        <page>
+          <links />
+          <id value="16" />
+        </page>
+        <page>
+          <links />
+          <id value="17" />
+        </page>
+        <page>
+          <links />
+          <id value="18" />
+        </page>
+        <page>
+          <links />
+          <id value="19" />
+        </page>
+        <page>
+          <links />
+          <id value="20" />
+        </page>
+        <page>
+          <links />
+          <id value="21" />
+        </page>
+        <page>
+          <links />
+          <id value="22" />
+        </page>
+        <page>
+          <links />
+          <id value="23" />
+        </page>
+        <page>
+          <links />
+          <id value="24" />
+        </page>
+        <page>
+          <links />
+          <id value="25" />
+        </page>
+        <page>
+          <links />
+          <id value="26" />
+        </page>
+        <page>
+          <links />
+          <id value="27" />
+        </page>
+        <page>
+          <links />
+          <id value="28" />
+        </page>
+        <page>
+          <links />
+          <id value="29" />
+        </page>
+        <page>
+          <links />
+          <id value="30" />
+        </page>
+        <page>
+          <links />
+          <id value="31" />
+        </page>
+        <page>
+          <links />
+          <id value="32" />
+        </page>
+        <page>
+          <links />
+          <id value="33" />
+        </page>
+        <page>
+          <links />
+          <id value="34" />
+        </page>
+        <page>
+          <links />
+          <id value="35" />
+        </page>
+        <page>
+          <links />
+          <id value="36" />
+        </page>
+        <page>
+          <links />
+          <id value="37" />
+        </page>
+        <page>
+          <links />
+          <id value="38" />
+        </page>
+        <page>
+          <links />
+          <id value="39" />
+        </page>
+        <page>
+          <links />
+          <id value="40" />
+        </page>
+        <page>
+          <links />
+          <id value="41" />
+        </page>
+        <page>
+          <links />
+          <id value="42" />
+        </page>
+        <page>
+          <links />
+          <id value="43" />
+        </page>
+        <page>
+          <links />
+          <id value="44" />
+        </page>
+        <page>
+          <links />
+          <id value="45" />
+        </page>
+        <page>
+          <links />
+          <id value="46" />
+        </page>
+        <page>
+          <links />
+          <id value="47" />
+        </page>
+        <page>
+          <links />
+          <id value="48" />
+        </page>
+        <page>
+          <links />
+          <id value="49" />
+        </page>
+        <page>
+          <links />
+          <id value="50" />
+        </page>
+        <page>
+          <links />
+          <id value="51" />
+        </page>
+        <page>
+          <links />
+          <id value="52" />
+        </page>
+        <page>
+          <links />
+          <id value="53" />
+        </page>
+        <page>
+          <links />
+          <id value="54" />
+        </page>
+        <page>
+          <links />
+          <id value="55" />
+        </page>
+        <page>
+          <links />
+          <id value="56" />
+        </page>
+        <page>
+          <links />
+          <id value="57" />
+        </page>
+        <page>
+          <links />
+          <id value="58" />
+        </page>
+        <page>
+          <links />
+          <id value="59" />
+        </page>
+        <page>
+          <links />
+          <id value="60" />
+        </page>
+        <page>
+          <links />
+          <id value="61" />
+        </page>
+        <page>
+          <links />
+          <id value="62" />
+        </page>
+        <page>
+          <links />
+          <id value="63" />
+        </page>
+        <page>
+          <links />
+          <id value="64" />
+        </page>
+        <page>
+          <links />
+          <id value="65" />
+        </page>
+        <page>
+          <links />
+          <id value="66" />
+        </page>
+        <page>
+          <links />
+          <id value="67" />
+        </page>
+        <page>
+          <links />
+          <id value="68" />
+        </page>
+        <page>
+          <links />
+          <id value="69" />
+        </page>
+        <page>
+          <links />
+          <id value="70" />
+        </page>
+        <page>
+          <links />
+          <id value="71" />
+        </page>
+        <page>
+          <links />
+          <id value="72" />
+        </page>
+        <page>
+          <links />
+          <id value="73" />
+        </page>
+        <page>
+          <links />
+          <id value="74" />
+        </page>
+        <page>
+          <links />
+          <id value="75" />
+        </page>
+        <page>
+          <links />
+          <id value="76" />
+        </page>
+        <page>
+          <links />
+          <id value="77" />
+        </page>
+        <page>
+          <links />
+          <id value="78" />
+        </page>
+        <page>
+          <links />
+          <id value="79" />
+        </page>
+        <page>
+          <links />
+          <id value="80" />
+        </page>
+        <page>
+          <links />
+          <id value="81" />
+        </page>
+        <page>
+          <links />
+          <id value="82" />
+        </page>
+        <page>
+          <links />
+          <id value="83" />
+        </page>
+        <page>
+          <links />
+          <id value="84" />
+        </page>
+        <page>
+          <links />
+          <id value="85" />
+        </page>
+        <page>
+          <links />
+          <id value="86" />
+        </page>
+        <page>
+          <links />
+          <id value="87" />
+        </page>
+        <page>
+          <links />
+          <id value="88" />
+        </page>
+        <page>
+          <links />
+          <id value="89" />
+        </page>
+        <page>
+          <links />
+          <id value="90" />
+        </page>
+        <page>
+          <links />
+          <id value="91" />
+        </page>
+        <page>
+          <links />
+          <id value="92" />
+        </page>
+        <page>
+          <links />
+          <id value="93" />
+        </page>
+        <page>
+          <links />
+          <id value="94" />
+        </page>
+        <page>
+          <links />
+          <id value="95" />
+        </page>
+        <page>
+          <links />
+          <id value="96" />
+        </page>
+        <page>
+          <links />
+          <id value="97" />
+        </page>
+        <page>
+          <links />
+          <id value="98" />
+        </page>
+        <page>
+          <links />
+          <id value="99" />
+        </page>
+        <page>
+          <links />
+          <id value="100" />
+        </page>
+        <page>
+          <links />
+          <id value="101" />
+        </page>
+        <page>
+          <links />
+          <id value="102" />
+        </page>
+        <page>
+          <links />
+          <id value="103" />
+        </page>
+        <page>
+          <links />
+          <id value="104" />
+        </page>
+        <page>
+          <links />
+          <id value="105" />
+        </page>
+        <page>
+          <links />
+          <id value="106" />
+        </page>
+        <page>
+          <links />
+          <id value="107" />
+        </page>
+        <page>
+          <links />
+          <id value="108" />
+        </page>
+        <page>
+          <links />
+          <id value="109" />
+        </page>
+        <page>
+          <links />
+          <id value="110" />
+        </page>
+        <page>
+          <links />
+          <id value="111" />
+        </page>
+        <page>
+          <links />
+          <id value="112" />
+        </page>
+        <page>
+          <links />
+          <id value="113" />
+        </page>
+        <page>
+          <links />
+          <id value="114" />
+        </page>
+        <page>
+          <links />
+          <id value="115" />
+        </page>
+        <page>
+          <links />
+          <id value="116" />
+        </page>
+        <page>
+          <links />
+          <id value="117" />
+        </page>
+        <page>
+          <links />
+          <id value="118" />
+        </page>
+        <page>
+          <links />
+          <id value="119" />
+        </page>
+        <page>
+          <links />
+          <id value="120" />
+        </page>
+        <page>
+          <links />
+          <id value="121" />
+        </page>
+        <page>
+          <links />
+          <id value="122" />
+        </page>
+        <page>
+          <links />
+          <id value="123" />
+        </page>
+        <page>
+          <links />
+          <id value="124" />
+        </page>
+        <page>
+          <links />
+          <id value="125" />
+        </page>
+        <page>
+          <links />
+          <id value="126" />
+        </page>
+        <page>
+          <links />
+          <id value="127" />
+        </page>
+        <page>
+          <links />
+          <id value="128" />
+        </page>
+        <page>
+          <links />
+          <id value="129" />
+        </page>
+        <page>
+          <links />
+          <id value="130" />
+        </page>
+        <page>
+          <links />
+          <id value="131" />
+        </page>
+        <page>
+          <links />
+          <id value="132" />
+        </page>
+        <page>
+          <links />
+          <id value="133" />
+        </page>
+        <page>
+          <links />
+          <id value="134" />
+        </page>
+        <page>
+          <links />
+          <id value="135" />
+        </page>
+        <page>
+          <links />
+          <id value="136" />
+        </page>
+        <page>
+          <links />
+          <id value="137" />
+        </page>
+        <page>
+          <links />
+          <id value="138" />
+        </page>
+        <page>
+          <links />
+          <id value="139" />
+        </page>
+        <page>
+          <links />
+          <id value="140" />
+        </page>
+        <page>
+          <links />
+          <id value="141" />
+        </page>
+        <page>
+          <links />
+          <id value="142" />
+        </page>
+        <page>
+          <links />
+          <id value="143" />
+        </page>
+        <page>
+          <links />
+          <id value="144" />
+        </page>
+        <page>
+          <links />
+          <id value="145" />
+        </page>
+        <page>
+          <links />
+          <id value="146" />
+        </page>
+        <page>
+          <links />
+          <id value="147" />
+        </page>
+        <page>
+          <links />
+          <id value="148" />
+        </page>
+        <page>
+          <links />
+          <id value="149" />
+        </page>
+        <page>
+          <links />
+          <id value="150" />
+        </page>
+        <page>
+          <links />
+          <id value="151" />
+        </page>
+        <page>
+          <links />
+          <id value="152" />
+        </page>
+        <page>
+          <links />
+          <id value="153" />
+        </page>
+        <page>
+          <links />
+          <id value="154" />
+        </page>
+        <page>
+          <links />
+          <id value="155" />
+        </page>
+        <page>
+          <links />
+          <id value="156" />
+        </page>
+        <page>
+          <links />
+          <id value="157" />
+        </page>
+        <page>
+          <links />
+          <id value="158" />
+        </page>
+        <page>
+          <links />
+          <id value="159" />
+        </page>
+        <page>
+          <links />
+          <id value="160" />
+        </page>
+        <page>
+          <links />
+          <id value="161" />
+        </page>
+        <page>
+          <links />
+          <id value="162" />
+        </page>
+        <page>
+          <links />
+          <id value="163" />
+        </page>
+        <page>
+          <links />
+          <id value="164" />
+        </page>
+        <page>
+          <links />
+          <id value="165" />
+        </page>
+        <page>
+          <links />
+          <id value="166" />
+        </page>
+        <page>
+          <links />
+          <id value="167" />
+        </page>
+        <page>
+          <links />
+          <id value="168" />
+        </page>
+        <page>
+          <links />
+          <id value="169" />
+        </page>
+        <page>
+          <links />
+          <id value="170" />
+        </page>
+        <page>
+          <links />
+          <id value="171" />
+        </page>
+        <page>
+          <links />
+          <id value="172" />
+        </page>
+        <page>
+          <links />
+          <id value="173" />
+        </page>
+        <page>
+          <links />
+          <id value="174" />
+        </page>
+        <page>
+          <links />
+          <id value="175" />
+        </page>
+        <page>
+          <links />
+          <id value="176" />
+        </page>
+        <page>
+          <links />
+          <id value="177" />
+        </page>
+        <page>
+          <links />
+          <id value="178" />
+        </page>
+        <page>
+          <links />
+          <id value="179" />
+        </page>
+        <page>
+          <links />
+          <id value="180" />
+        </page>
+        <page>
+          <links />
+          <id value="181" />
+        </page>
+        <page>
+          <links />
+          <id value="182" />
+        </page>
+        <page>
+          <links />
+          <id value="183" />
+        </page>
+        <page>
+          <links />
+          <id value="184" />
+        </page>
+        <page>
+          <links />
+          <id value="185" />
+        </page>
+        <page>
+          <links />
+          <id value="186" />
+        </page>
+        <page>
+          <links />
+          <id value="187" />
+        </page>
+        <page>
+          <links />
+          <id value="188" />
+        </page>
+        <page>
+          <links />
+          <id value="189" />
+        </page>
+        <page>
+          <links />
+          <id value="190" />
+        </page>
+        <page>
+          <links />
+          <id value="191" />
+        </page>
+        <page>
+          <links />
+          <id value="192" />
+        </page>
+        <page>
+          <links />
+          <id value="193" />
+        </page>
+        <page>
+          <links />
+          <id value="194" />
+        </page>
+        <page>
+          <links />
+          <id value="195" />
+        </page>
+        <page>
+          <links />
+          <id value="196" />
+        </page>
+        <page>
+          <links />
+          <id value="197" />
+        </page>
+        <page>
+          <links />
+          <id value="198" />
+        </page>
+        <page>
+          <links />
+          <id value="199" />
+        </page>
+        <page>
+          <links />
+          <id value="200" />
+        </page>
+        <page>
+          <links />
+          <id value="201" />
+        </page>
+        <page>
+          <links />
+          <id value="202" />
+        </page>
+        <page>
+          <links />
+          <id value="203" />
+        </page>
+        <page>
+          <links />
+          <id value="204" />
+        </page>
+        <page>
+          <links />
+          <id value="205" />
+        </page>
+        <page>
+          <links />
+          <id value="206" />
+        </page>
+        <page>
+          <links />
+          <id value="207" />
+        </page>
+        <page>
+          <links />
+          <id value="208" />
+        </page>
+        <page>
+          <links />
+          <id value="209" />
+        </page>
+        <page>
+          <links />
+          <id value="210" />
+        </page>
+        <page>
+          <links />
+          <id value="211" />
+        </page>
+        <page>
+          <links />
+          <id value="212" />
+        </page>
+        <page>
+          <links />
+          <id value="213" />
+        </page>
+        <page>
+          <links />
+          <id value="214" />
+        </page>
+        <page>
+          <links />
+          <id value="215" />
+        </page>
+        <page>
+          <links />
+          <id value="216" />
+        </page>
+        <page>
+          <links />
+          <id value="217" />
+        </page>
+        <page>
+          <links />
+          <id value="218" />
+        </page>
+        <page>
+          <links />
+          <id value="219" />
+        </page>
+        <page>
+          <links />
+          <id value="220" />
+        </page>
+        <page>
+          <links />
+          <id value="221" />
+        </page>
+        <page>
+          <links />
+          <id value="222" />
+        </page>
+        <page>
+          <links />
+          <id value="223" />
+        </page>
+        <page>
+          <links />
+          <id value="224" />
+        </page>
+        <page>
+          <links />
+          <id value="225" />
+        </page>
+        <page>
+          <links />
+          <id value="226" />
+        </page>
+        <page>
+          <links />
+          <id value="227" />
+        </page>
+        <page>
+          <links />
+          <id value="228" />
+        </page>
+        <page>
+          <links />
+          <id value="229" />
+        </page>
+        <page>
+          <links />
+          <id value="230" />
+        </page>
+        <page>
+          <links />
+          <id value="231" />
+        </page>
+        <page>
+          <links />
+          <id value="232" />
+        </page>
+        <page>
+          <links />
+          <id value="233" />
+        </page>
+        <page>
+          <links />
+          <id value="234" />
+        </page>
+        <page>
+          <links />
+          <id value="235" />
+        </page>
+        <page>
+          <links />
+          <id value="236" />
+        </page>
+        <page>
+          <links />
+          <id value="237" />
+        </page>
+        <page>
+          <links />
+          <id value="238" />
+        </page>
+        <page>
+          <links />
+          <id value="239" />
+        </page>
+        <page>
+          <links />
+          <id value="240" />
+        </page>
+        <page>
+          <links />
+          <id value="241" />
+        </page>
+        <page>
+          <links />
+          <id value="242" />
+        </page>
+        <page>
+          <links />
+          <id value="243" />
+        </page>
+        <page>
+          <links />
+          <id value="244" />
+        </page>
+        <page>
+          <links />
+          <id value="245" />
+        </page>
+        <page>
+          <links />
+          <id value="246" />
+        </page>
+        <page>
+          <links />
+          <id value="247" />
+        </page>
+        <page>
+          <links />
+          <id value="248" />
+        </page>
+        <page>
+          <links />
+          <id value="249" />
+        </page>
+        <page>
+          <links />
+          <id value="250" />
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="search/searchtext.xml" />
+    <bookWidth value="595" />
+    <bookHeight value="841" />
+    <bookName value="מתמטיקה לכיתה זי חלק בי" />
+    <bookBG src="image/grey-inner.jpg" scale="scale" />
+    <tocVisible value="true" />
+    <slideshowVisible value="true" />
+    <bookmarksVisible value="false" />
+  </bookProperties>
+</Properties>

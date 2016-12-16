@@ -1,0 +1,16 @@
+HTTrack3.48-21 launched on Fri, 28 Oct 2016 17:18:47 at http://www.mathstar.biz/sfarim/mathematika7B/
+(httrack http://www.mathstar.biz/sfarim/mathematika7B/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:18:54	Error: 	"Not Found" (404) at link www.mathstar.biz/sfarim/mathematika7B/flippingbook.swf?rnd=54f0ecc23569a06414a94416b212cb0e (from www.mathstar.biz/sfarim/mathematika7B/)
+17:19:48	Warning: 	File not parsed, looks like binary: www.mathstar.biz/sfarim/mathematika7B/files/framework_3.6.0.16995.swz
+17:49:22	Warning: 	Retry after error 502 (Bad Gateway) at link www.mathstar.biz/sfarim/mathematika7B/files/assets/mobile/page0228_i1.jpg (from www.mathstar.biz/sfarim/mathematika7B/files/assets/mobile/)
+17:49:22	Warning: 	Retry after error 502 () at link www.mathstar.biz/sfarim/mathematika7B/files/assets/mobile/page0228_i1.jpg (from www.mathstar.biz/sfarim/mathematika7B/files/assets/mobile/)
+17:49:22	Error: 	"" (502) after 2 retries at link www.mathstar.biz/sfarim/mathematika7B/files/assets/mobile/page0228_i1.jpg (from www.mathstar.biz/sfarim/mathematika7B/files/assets/mobile/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 30 minutes 35 seconds : 1336 links scanned, 1331 files written (44644956 bytes overall) [44762612 bytes received at 24393 bytes/sec], 280461 bytes transferred using HTTP compression in 26 files, ratio 19%, 2.4 requests per connection
+(2 errors, 3 warnings, 0 messages)
